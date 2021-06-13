@@ -1,0 +1,103 @@
+body{
+    background-image: linear-gradient(to left bottom, #feebd0, #ffffff, #ffffff, #ffffff, #ffffff);
+    font-family: 'Roboto', 'Poppins';
+    text-decoration: none;
+    span{
+        color:#fb9333;
+    }
+    h2{
+        line-height: 2em;
+    }
+    .btn{
+        border-radius: 25px;
+    }
+
+    .bee{
+        margin: -2rem -2.5rem 1rem;
+    }
+}
+
+.header{
+
+    .navbar{
+        // margin-top: .5em;
+        text-transform: uppercase;
+        font-family: 'Roboto';
+        
+
+        .nav-item{
+            margin: 0em 0.8em;
+            font-weight: 800;
+        }
+        .nav-link{
+            color: black;
+        }
+   }
+}
+
+.main{
+    margin-top: 8em;
+    img{
+        width: 100%;
+    }
+    button{
+        margin-bottom: 4em;
+        border-radius: 25px;
+        background-color: #fff0dc;
+    }
+}
+
+.cards{
+    margin-top: 6em;
+}
+.info{
+    margin-top: 6em;
+    img{width: 100%;}
+    p{
+        line-height: 2em;
+    }
+}
+
+.nuts{
+    margin-top: 6em;
+    img{
+        max-width: 20rem;
+        margin: 0 auto;
+    }
+    h2{
+        text-align: center;
+    }
+}
+
+.s_box{
+    margin-top: 6em;
+    .box{
+        background: url(../images/bg.png);
+        background-color: #EADDCA;
+        border-radius: 5rem;
+
+        .box-text{
+            text-align: center;
+            margin: 5em auto; 
+        }
+
+        .form-control{
+            border-radius: 30px 0 0 30px;
+        }
+    } 
+}
+
+.company{
+    margin-top: 6em;
+
+    h2{
+        text-align: center;
+    }
+}
+.footer{
+    margin-top: 8em;
+    .click{
+        font-size: 2.5em;
+        margin: 10px;
+    }
+}

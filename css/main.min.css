@@ -1,0 +1,99 @@
+body {
+  background-image: -webkit-gradient(linear, right top, left bottom, from(#feebd0), color-stop(#ffffff), color-stop(#ffffff), color-stop(#ffffff), to(#ffffff));
+  background-image: -o-linear-gradient(right top, #feebd0, #ffffff, #ffffff, #ffffff, #ffffff);
+  background-image: linear-gradient(to left bottom, #feebd0, #ffffff, #ffffff, #ffffff, #ffffff);
+  font-family: "Roboto", "Poppins";
+  text-decoration: none;
+}
+body span {
+  color: #fb9333;
+}
+body h2 {
+  line-height: 2em;
+}
+body .btn {
+  border-radius: 25px;
+}
+body .bee {
+  margin: -2rem -2.5rem 1rem;
+}
+
+.header .navbar {
+  text-transform: uppercase;
+  font-family: "Roboto";
+}
+.header .navbar .nav-item {
+  margin: 0em 0.8em;
+  font-weight: 800;
+}
+.header .navbar .nav-link {
+  color: black;
+}
+
+.main {
+  margin-top: 8em;
+}
+.main img {
+  width: 100%;
+}
+.main button {
+  margin-bottom: 4em;
+  border-radius: 25px;
+  background-color: #fff0dc;
+}
+
+.cards {
+  margin-top: 6em;
+}
+
+.info {
+  margin-top: 6em;
+}
+.info img {
+  width: 100%;
+}
+.info p {
+  line-height: 2em;
+}
+
+.nuts {
+  margin-top: 6em;
+}
+.nuts img {
+  max-width: 20rem;
+  margin: 0 auto;
+}
+.nuts h2 {
+  text-align: center;
+}
+
+.s_box {
+  margin-top: 6em;
+}
+.s_box .box {
+  background: url(../images/bg.png);
+  background-color: #EADDCA;
+  border-radius: 5rem;
+}
+.s_box .box .box-text {
+  text-align: center;
+  margin: 5em auto;
+}
+.s_box .box .form-control {
+  border-radius: 30px 0 0 30px;
+}
+
+.company {
+  margin-top: 6em;
+}
+.company h2 {
+  text-align: center;
+}
+
+.footer {
+  margin-top: 8em;
+}
+.footer .click {
+  font-size: 2.5em;
+  margin: 10px;
+}
